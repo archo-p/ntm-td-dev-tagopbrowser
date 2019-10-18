@@ -1,5 +1,5 @@
 # ntm-td-dev-tagopbrowser
- An opBrowser that allows tagging of a single scoped op
+ An opBrowser that allows tagging of a single scoped tag
  
  A new column has been added to opBrowser and a field widget bound to the parameter Scopedtag.
  By filling scoped tag you will be shown which ops have the tag ( green ) and which do not ( red ).
